@@ -1,7 +1,6 @@
 package com.EngineImplementations.java;
 
 import org.springframework.stereotype.Component;
-
 import com.EngineInterface.java.Engine;
 @Component
 public class DieselEngine implements Engine{
@@ -10,5 +9,4 @@ public class DieselEngine implements Engine{
 		// TODO Auto-generated method stub
 		return "DieselEngine";
 	}
-
 }

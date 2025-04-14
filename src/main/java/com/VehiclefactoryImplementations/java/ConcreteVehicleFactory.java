@@ -1,7 +1,6 @@
 package com.VehiclefactoryImplementations.java;
 
 import org.springframework.stereotype.Component;
-
 import com.EngineImplementations.java.DieselEngine;
 import com.EngineImplementations.java.ElectricEngine;
 import com.EngineInterface.java.Engine;
@@ -10,7 +9,6 @@ import com.VehicleImplementations.java.Car;
 import com.VehicleImplementations.java.Motorcycle;
 import com.VehicleImplementations.java.Truck;
 import com.VehicleInterface.java.Vehicle;
-
 import org.springframework.beans.factory.annotation.Autowired;
 
 
